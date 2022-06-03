@@ -4,11 +4,11 @@ Awwwards remake | CHANIRU Personal Portfolio HTML JAVA CSS3
 
 This Website was crafted by - @chaniru.lk - instagram
 
-#Home Page
+# Home Page
 
 ![Scrrenshot](./img/Screenshot2.png)
 
-#Loading Page
+# Loading Page
 
 ![Scrrenshot](./img/Screenshot.png)
 
